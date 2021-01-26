@@ -1,0 +1,12 @@
+{
+    "Cookie" : {
+        "phptravels": "ci_session"
+    },
+
+    "URL" : {
+        "baseURL": "https://phptravels.net",
+        "homeURL": "/home", 
+        "authEndpoint": "/account/login",
+        "signUpEndpoint": "/account/signup"
+    }
+}
